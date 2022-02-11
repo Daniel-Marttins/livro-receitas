@@ -5,4 +5,4 @@ Olá! Bem vindo ao meu livro de receitas :wave:
 
 
 * Pizza de 4-Queijos
-* Bolo de Chocolate
+* Bolo de Laranja
